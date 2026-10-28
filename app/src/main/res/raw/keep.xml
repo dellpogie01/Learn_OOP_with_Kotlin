@@ -1,0 +1,3 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@string/version_license_line" />
+<!-- Retain the existing resource ID for compatibility; its version line is no longer shown in Settings. -->

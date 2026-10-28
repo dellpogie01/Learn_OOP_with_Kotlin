@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt" android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Official Kotlin mark: kotlinlang.org/docs/kotlin-brand-assets.html -->
+    <group android:translateX="30" android:translateY="30">
+    <path android:pathData="M48,48H0V0H48L23.505,23.6475L48,48Z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="radial" android:centerX="48" android:centerY="0" android:gradientRadius="48">
+                <item android:offset="0" android:color="#E44857" />
+                <item android:offset="0.504494" android:color="#C711E1" />
+                <item android:offset="1" android:color="#7F52FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    </group>
+</vector>
